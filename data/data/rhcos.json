@@ -83,18 +83,6 @@
             "sha256": "e579e8482ec9762b69e316d1c7fa76d20c7a9b042b01043645772d7a72f479ff",
             "size": 924220105
         },
-        "initramfs": {
-            "path": "rhcos-46.82.202006190240-0-installer-initramfs.x86_64.img",
-            "sha256": "a5ccb3e10ecbc1dc9cfc8c05475db8b452797889b72444558b05cc47717e9341"
-        },
-        "iso": {
-            "path": "rhcos-46.82.202006190240-0-installer.x86_64.iso",
-            "sha256": "978e9b1db8696657cd8d6a481f747a7ba5d7a554c47b3274f1b3edbe76e95bf3"
-        },
-        "kernel": {
-            "path": "rhcos-46.82.202006190240-0-installer-kernel-x86_64",
-            "sha256": "57b1e7d0205dac1c6d0478ca045d35160d89d96c0cb746d5973fe68a2b36f498"
-        },
         "live-initramfs": {
             "path": "rhcos-46.82.202006190240-0-live-initramfs.x86_64.img",
             "sha256": "c1d8cf026fdc4fc6d7fc025d422ebfd091d71125f98b5681be9530e080b3bf7a"
